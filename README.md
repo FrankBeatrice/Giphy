@@ -1,2 +1,3 @@
-# week-6
-gif_viewer
+# gif_viewer
+
+A gif search made utilizing the Giphy API , html , CSS, & JavaScript
